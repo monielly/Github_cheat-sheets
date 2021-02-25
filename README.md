@@ -11,4 +11,6 @@ This is how you initialized and commit your project to a new repository.
 - git push origin master  
 - git pull origin master  
 
+by Maiah Dev's
+
 ###### [Monielly Repository Link](https://github.com/)  
