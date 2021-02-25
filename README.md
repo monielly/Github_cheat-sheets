@@ -1,4 +1,4 @@
-# Github_cheat-sheets
+# Github Cheat-Sheets
 This is how you initialized and commit your project to a new repository.  
 
 ### Follow these Steps:  
