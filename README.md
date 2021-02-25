@@ -1,7 +1,7 @@
 # Github_cheat-sheets
 This is how you initialized and commit your project to a new repository.  
 
-###Follow these Steps:  
+### Follow these Steps:  
 -git init  
 -git remote add origin https://github.com/monielly/project_name.git  
 -git remote set-url origin https://github.com/monielly/project_name.git  
