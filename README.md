@@ -11,4 +11,4 @@ This is how you initialized and commit your project to a new repository.
 - git push origin master  
 - git pull origin master  
 
-#### ----------- END OF COMMITING -----------
+###### - END -   
