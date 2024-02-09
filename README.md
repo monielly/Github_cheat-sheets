@@ -8,7 +8,7 @@ This is how you initialized and commit your project to a new repository.
 - git remote set-url origin https://github.com/monielly/project_name.git  
  You can check set repository through `git remote get-url origin`
 - git add .
-- git commit -m "Message of commit"  
+- git commit -m "First commit"  
 - git push origin master  
 - git pull origin master  
 
